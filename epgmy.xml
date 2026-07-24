@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tv generator-info-name="Mi EPG">
+
+<!-- CANALES -->
+
+<channel id="MI_MUSICA_ROMANTICA">
+    <display-name>Mi Musica Romantica</display-name>
+</channel>
+
+<channel id="MI_MUSICA_REGGAETON">
+    <display-name>Mi Musica Reggaeton</display-name>
+</channel>
+
+<channel id="MI_MUSICA_SALSA">
+    <display-name>Mi Musica Salsa</display-name>
+</channel>
+
+<channel id="FOLKLORICO">
+    <display-name>Folklorico</display-name>
+</channel>
+
+<channel id="TIERRA_MIA_TV">
+    <display-name>Tierra Mia TV</display-name>
+</channel>
+
+<channel id="BILLBOARD">
+    <display-name>Billboard</display-name>
+</channel>
+
+
+<!-- PROGRAMACION -->
+
+<programme channel="MI_MUSICA_ROMANTICA" start="20260724000000 +0000" stop="20260725000000 +0000">
+<title>100% Amor</title>
+<desc>Musica romantica las 24 horas</desc>
+</programme>
+
+
+<programme channel="MI_MUSICA_REGGAETON" start="20260724000000 +0000" stop="20260725000000 +0000">
+<title>Puro Flow</title>
+<desc>Reggaeton y musica urbana</desc>
+</programme>
+
+
+<programme channel="MI_MUSICA_SALSA" start="20260724000000 +0000" stop="20260725000000 +0000">
+<title>Musica Salsa</title>
+<desc>Los mejores exitos de salsa</desc>
+</programme>
+
+
+<programme channel="FOLKLORICO" start="20260724000000 +0000" stop="20260725000000 +0000">
+<title>Musica folklorica chamamé</title>
+<desc>Folklore argentino y chamamé</desc>
+</programme>
+
+
+<programme channel="TIERRA_MIA_TV" start="20260724000000 +0000" stop="20260725000000 +0000">
+<title>24 horas Chamamé</title>
+<desc>Chamamé durante todo el día</desc>
+</programme>
+
+
+<programme channel="BILLBOARD" start="20260724000000 +0000" stop="20260725000000 +0000">
+<title>Billboard</title>
+<desc>Los mejores éxitos musicales</desc>
+</programme>
+
+
+</tv>
