@@ -6,7 +6,6 @@ on:
 
   workflow_dispatch:
 
-
 jobs:
   actualizar:
 
@@ -17,10 +16,8 @@ jobs:
     - name: Descargar repositorio
       uses: actions/checkout@v4
 
-
     - name: Ejecutar generador EPG
       run: python generar_myepg.py
-
 
     - name: Guardar cambios
       run: |
