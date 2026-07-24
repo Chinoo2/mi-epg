@@ -19,13 +19,13 @@ jobs:
 
 
     - name: Ejecutar generador EPG
-      run: python generar_epg.py
+      run: python generar_myepg.py
 
 
     - name: Guardar cambios
       run: |
         git config --global user.name "EPG Bot"
         git config --global user.email "epg@bot.com"
-        git add epg.xml
+        git add myepg.xml
         git commit -m "Actualizar EPG automaticamente" || exit 0
         git push
