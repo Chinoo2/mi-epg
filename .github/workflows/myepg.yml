@@ -1,28 +1,34 @@
 name: Actualizar EPG
 
 on:
+
   schedule:
     - cron: "0 */6 * * *"
 
   workflow_dispatch:
 
+
 jobs:
+
   actualizar:
 
     runs-on: ubuntu-latest
+
 
     steps:
 
     - name: Descargar repositorio
       uses: actions/checkout@v4
 
+
     - name: Ejecutar generador EPG
       run: python generar_myepg.py
+
 
     - name: Guardar cambios
       run: |
         git config --global user.name "EPG Bot"
         git config --global user.email "epg@bot.com"
-        git add myepg.xml
+        git add epgmy.xml
         git commit -m "Actualizar EPG automaticamente" || exit 0
         git push
