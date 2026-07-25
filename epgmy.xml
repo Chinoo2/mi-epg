@@ -25,36 +25,6 @@
     <display-name>Billboard</display-name>
 </channel>
 
-<programme channel="MI_MUSICA_ROMANTICA" start="20260724000000 +0000" stop="20260725000000 +0000">
-    <title>100% Amor</title>
-    <desc>Programacion musical 24 horas</desc>
-</programme>
-
-<programme channel="MI_MUSICA_REGGAETON" start="20260724000000 +0000" stop="20260725000000 +0000">
-    <title>Puro Flow</title>
-    <desc>Programacion musical 24 horas</desc>
-</programme>
-
-<programme channel="MI_MUSICA_SALSA" start="20260724000000 +0000" stop="20260725000000 +0000">
-    <title>Musica Salsa</title>
-    <desc>Programacion musical 24 horas</desc>
-</programme>
-
-<programme channel="FOLKLORICO" start="20260724000000 +0000" stop="20260725000000 +0000">
-    <title>Musica folklorica chamamé</title>
-    <desc>Programacion musical 24 horas</desc>
-</programme>
-
-<programme channel="TIERRA_MIA_TV" start="20260724000000 +0000" stop="20260725000000 +0000">
-    <title>24 horas Chamamé</title>
-    <desc>Programacion musical 24 horas</desc>
-</programme>
-
-<programme channel="BILLBOARD" start="20260724000000 +0000" stop="20260725000000 +0000">
-    <title>Billboard</title>
-    <desc>Programacion musical 24 horas</desc>
-</programme>
-
 <programme channel="MI_MUSICA_ROMANTICA" start="20260725000000 +0000" stop="20260726000000 +0000">
     <title>100% Amor</title>
     <desc>Programacion musical 24 horas</desc>
@@ -921,6 +891,36 @@
 </programme>
 
 <programme channel="BILLBOARD" start="20260822000000 +0000" stop="20260823000000 +0000">
+    <title>Billboard</title>
+    <desc>Programacion musical 24 horas</desc>
+</programme>
+
+<programme channel="MI_MUSICA_ROMANTICA" start="20260823000000 +0000" stop="20260824000000 +0000">
+    <title>100% Amor</title>
+    <desc>Programacion musical 24 horas</desc>
+</programme>
+
+<programme channel="MI_MUSICA_REGGAETON" start="20260823000000 +0000" stop="20260824000000 +0000">
+    <title>Puro Flow</title>
+    <desc>Programacion musical 24 horas</desc>
+</programme>
+
+<programme channel="MI_MUSICA_SALSA" start="20260823000000 +0000" stop="20260824000000 +0000">
+    <title>Musica Salsa</title>
+    <desc>Programacion musical 24 horas</desc>
+</programme>
+
+<programme channel="FOLKLORICO" start="20260823000000 +0000" stop="20260824000000 +0000">
+    <title>Musica folklorica chamamé</title>
+    <desc>Programacion musical 24 horas</desc>
+</programme>
+
+<programme channel="TIERRA_MIA_TV" start="20260823000000 +0000" stop="20260824000000 +0000">
+    <title>24 horas Chamamé</title>
+    <desc>Programacion musical 24 horas</desc>
+</programme>
+
+<programme channel="BILLBOARD" start="20260823000000 +0000" stop="20260824000000 +0000">
     <title>Billboard</title>
     <desc>Programacion musical 24 horas</desc>
 </programme>
