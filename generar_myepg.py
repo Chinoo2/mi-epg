@@ -3,10 +3,14 @@ from datetime import datetime, timedelta
 canales = [
     ("MI_MUSICA_ROMANTICA", "Mi Musica Romantica", "100% Amor"),
     ("MI_MUSICA_REGGAETON", "Mi Musica Reggaeton", "Puro Flow"),
-    ("MI_MUSICA_SALSA", "Mi Musica Salsa", "Musica Salsa"),
-    ("FOLKLORICO", "Folklorico", "Musica folklorica chamamé"),
-    ("TIERRA_MIA_TV", "Tierra Mia TV", "24 horas Chamamé"),
-    ("BILLBOARD", "Billboard", "Billboard")
+    ("MI_MUSICA_SALSA", "Mi Musica Salsa", "Musica Salsa las 24 horas"),
+    ("FOLKLORICO", "Folklorico", "Musica folklorica chamamé variada las 24 horas"),
+    ("TIERRA_MIA_TV", "Tierra Mia TV", "24 horas Chamamé rioplatense"),
+    ("BILLBOARD", "Billboard", "Billboard"),
+    ("EMISORAS", "Emisoras", "Disfruta caundo quieras tus emisoras favoritas las 24 HS - Música variada"),
+    ("LFP_PLAY", "Lfp PLay", "Eventos disponibles de la Liga de Fútbol Profesional Argentina - PRIMERA B NACIOINAL entre otros"),
+    ("UN_POCO_DE_RUIDO", "Un Poco de Ruido", "Cumbia 24 hs de la mano de Un Poco de Ruido"),
+    ("GH_DORADA", "Gh Dorada", "Viví las 24 horas de tu reality favorito con las camáras disponibles las 24/7")
 ]
 
 
