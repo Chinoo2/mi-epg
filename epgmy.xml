@@ -41,56 +41,6 @@
     <display-name>Gh Dorada</display-name>
 </channel>
 
-<programme channel="MI_MUSICA_ROMANTICA" start="20260821000000 +0000" stop="20260822000000 +0000">
-    <title>100% Amor</title>
-    <desc>Programacion musical 24 horas</desc>
-</programme>
-
-<programme channel="MI_MUSICA_REGGAETON" start="20260821000000 +0000" stop="20260822000000 +0000">
-    <title>Puro Flow</title>
-    <desc>Programacion musical 24 horas</desc>
-</programme>
-
-<programme channel="MI_MUSICA_SALSA" start="20260821000000 +0000" stop="20260822000000 +0000">
-    <title>Musica Salsa las 24 horas</title>
-    <desc>Programacion musical 24 horas</desc>
-</programme>
-
-<programme channel="FOLKLORICO" start="20260821000000 +0000" stop="20260822000000 +0000">
-    <title>Musica folklorica chamamé variada las 24 horas</title>
-    <desc>Programacion musical 24 horas</desc>
-</programme>
-
-<programme channel="TIERRA_MIA_TV" start="20260821000000 +0000" stop="20260822000000 +0000">
-    <title>24 horas Chamamé rioplatense</title>
-    <desc>Programacion musical 24 horas</desc>
-</programme>
-
-<programme channel="BILLBOARD" start="20260821000000 +0000" stop="20260822000000 +0000">
-    <title>Billboard</title>
-    <desc>Programacion musical 24 horas</desc>
-</programme>
-
-<programme channel="EMISORAS" start="20260821000000 +0000" stop="20260822000000 +0000">
-    <title>Disfruta caundo quieras tus emisoras favoritas las 24 HS - Música variada</title>
-    <desc>Programacion musical 24 horas</desc>
-</programme>
-
-<programme channel="LFP_PLAY" start="20260821000000 +0000" stop="20260822000000 +0000">
-    <title>Eventos disponibles de la Liga de Fútbol Profesional Argentina - PRIMERA B NACIOINAL entre otros</title>
-    <desc>Programacion musical 24 horas</desc>
-</programme>
-
-<programme channel="UN_POCO_DE_RUIDO" start="20260821000000 +0000" stop="20260822000000 +0000">
-    <title>Cumbia 24 hs de la mano de Un Poco de Ruido</title>
-    <desc>Programacion musical 24 horas</desc>
-</programme>
-
-<programme channel="GH_DORADA" start="20260821000000 +0000" stop="20260822000000 +0000">
-    <title>Viví las 24 horas de tu reality favorito con las camáras disponibles las 24/7</title>
-    <desc>Programacion musical 24 horas</desc>
-</programme>
-
 <programme channel="MI_MUSICA_ROMANTICA" start="20260822000000 +0000" stop="20260823000000 +0000">
     <title>100% Amor</title>
     <desc>Programacion musical 24 horas</desc>
@@ -1537,6 +1487,56 @@
 </programme>
 
 <programme channel="GH_DORADA" start="20260919000000 +0000" stop="20260920000000 +0000">
+    <title>Viví las 24 horas de tu reality favorito con las camáras disponibles las 24/7</title>
+    <desc>Programacion musical 24 horas</desc>
+</programme>
+
+<programme channel="MI_MUSICA_ROMANTICA" start="20260920000000 +0000" stop="20260921000000 +0000">
+    <title>100% Amor</title>
+    <desc>Programacion musical 24 horas</desc>
+</programme>
+
+<programme channel="MI_MUSICA_REGGAETON" start="20260920000000 +0000" stop="20260921000000 +0000">
+    <title>Puro Flow</title>
+    <desc>Programacion musical 24 horas</desc>
+</programme>
+
+<programme channel="MI_MUSICA_SALSA" start="20260920000000 +0000" stop="20260921000000 +0000">
+    <title>Musica Salsa las 24 horas</title>
+    <desc>Programacion musical 24 horas</desc>
+</programme>
+
+<programme channel="FOLKLORICO" start="20260920000000 +0000" stop="20260921000000 +0000">
+    <title>Musica folklorica chamamé variada las 24 horas</title>
+    <desc>Programacion musical 24 horas</desc>
+</programme>
+
+<programme channel="TIERRA_MIA_TV" start="20260920000000 +0000" stop="20260921000000 +0000">
+    <title>24 horas Chamamé rioplatense</title>
+    <desc>Programacion musical 24 horas</desc>
+</programme>
+
+<programme channel="BILLBOARD" start="20260920000000 +0000" stop="20260921000000 +0000">
+    <title>Billboard</title>
+    <desc>Programacion musical 24 horas</desc>
+</programme>
+
+<programme channel="EMISORAS" start="20260920000000 +0000" stop="20260921000000 +0000">
+    <title>Disfruta caundo quieras tus emisoras favoritas las 24 HS - Música variada</title>
+    <desc>Programacion musical 24 horas</desc>
+</programme>
+
+<programme channel="LFP_PLAY" start="20260920000000 +0000" stop="20260921000000 +0000">
+    <title>Eventos disponibles de la Liga de Fútbol Profesional Argentina - PRIMERA B NACIOINAL entre otros</title>
+    <desc>Programacion musical 24 horas</desc>
+</programme>
+
+<programme channel="UN_POCO_DE_RUIDO" start="20260920000000 +0000" stop="20260921000000 +0000">
+    <title>Cumbia 24 hs de la mano de Un Poco de Ruido</title>
+    <desc>Programacion musical 24 horas</desc>
+</programme>
+
+<programme channel="GH_DORADA" start="20260920000000 +0000" stop="20260921000000 +0000">
     <title>Viví las 24 horas de tu reality favorito con las camáras disponibles las 24/7</title>
     <desc>Programacion musical 24 horas</desc>
 </programme>
